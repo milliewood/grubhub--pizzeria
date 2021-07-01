@@ -4,7 +4,7 @@
 
 
 ## MILDRED KIGOI
-## mildredkigoi280@gmail.co
+## mildredkigoi280@gmail.com
 
 
 
