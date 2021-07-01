@@ -10,7 +10,8 @@
 
 INSTALLATION REQUIREMENT
 The creation of this project requires installation of a text editor such as VS code
-# Contributors:
+# Contributors: 
+So far we have no contributors.
 
 
 # DESCRIPTION
