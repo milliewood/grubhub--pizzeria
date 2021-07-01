@@ -1,14 +1,5 @@
  PIZZA-PLACE
 # GRUBHUB-PIZZERIA
-# Table Of Contents.
-* Project Name
-* Author Information
-* Installation Requirements
-* Contributors
-* Description Of Project.
-* Technology Used
-* Acknowlegment.
-* Licence and Copyright information.
 
 
 
