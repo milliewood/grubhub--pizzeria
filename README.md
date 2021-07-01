@@ -11,7 +11,7 @@
 INSTALLATION REQUIREMENT
 The creation of this project requires installation of a text editor such as VS code
 # Contributors:
-Up to this point, there are by far no contributors to the making and design of this website. Therefore marking my first website during my course program at Moringa School on the 12th of June 2021.
+
 
 # DESCRIPTION
 GRUBHUB-PIZZERIA is a web-app that allows a user to order different sizes of pizzas with one or more toppings. 
